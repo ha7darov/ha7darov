@@ -17,5 +17,5 @@ In this repository, you'll find examples, tutorials, and projects related to my 
 
 ## Connect with Me
 
-Interested in connecting and starting new collaborations? Feel free to reach out to me via [email](mailto:ha7dar0v@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your_profile/).
+Interested in connecting and starting new collaborations? Feel free to reach out to me via [email](mailto:ha7dar0v@gmail.com).
 
