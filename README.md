@@ -1,12 +1,12 @@
 # Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yeXlndGU1OWdjMmk4bWtsYXlwODFsczJmc3RrNW9vMnZ6MnBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eACGztkTkisd5n2uNU/giphy.gif" width="30px" height="30px">
 
-Welcome to my GitHub Profile!<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="30px">
+Welcome to my GitHub Profile! <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="30px">
 ---
 
 ### :man_technologist: About Me:
 
 
-- <img src="https://yt3.googleusercontent.com/-ANuqASexFGskzjUkSTjFUeaBkwHzQEa_5ZA9s_peYJ5CiC1PR8jusZeKMU-tG4MtRYBA9PSpQ=s900-c-k-c0x00ffffff-no-rj" width="30px" height="30px"> Education: IT - City Academy!
+<img src="https://yt3.googleusercontent.com/-ANuqASexFGskzjUkSTjFUeaBkwHzQEa_5ZA9s_peYJ5CiC1PR8jusZeKMU-tG4MtRYBA9PSpQ=s900-c-k-c0x00ffffff-no-rj" width="30px" height="30px"> Education: IT - City Academy!
 
 ---
 
