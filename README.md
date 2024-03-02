@@ -12,7 +12,7 @@ Welcome to my GitHub Profile!<img src="https://upload.wikimedia.org/wikipedia/co
 
 📩 How to contact me:
 
-- <a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png"></a>
+- <a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="40" height="40"></a>
 
 ---
 
