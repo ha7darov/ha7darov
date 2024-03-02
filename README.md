@@ -28,6 +28,7 @@ Welcome to my GitHub Profile!<img src="https://upload.wikimedia.org/wikipedia/co
 ### ⚙️  Frameworks & Library
 
 <div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrTxWIh8aldsyiC8ynrc-mGc4ft9CYpix4w&usqp=CAU" title="pug/pug" alt="pug/pug" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>
 
