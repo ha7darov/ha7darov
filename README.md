@@ -32,5 +32,8 @@ Welcome to my <a href="https://t.me/setup_Windows11">GitHub<a/> Profile! <img sr
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha7darov)](https://github.com/anuraghazra/github-readme-stats)
 
 
