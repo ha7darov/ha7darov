@@ -1,10 +1,10 @@
-# Hi, I'm <a href="https://t.me/davvayuje" target="_blank">Jasur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ---
 
 ### :man_technologist: Me:
 
-.Welcome to my GitHub!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+.Welcome to my GitHub!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yeXlndGU1OWdjMmk4bWtsYXlwODFsczJmc3RrNW9vMnZ6MnBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eACGztkTkisd5n2uNU/giphy.gif" width="30px">
 
 
 - :telescope: Education: IT - City Academy!
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠  Frameworks & Library
+### ⚙️  Frameworks & Library
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
@@ -35,10 +35,9 @@
 
 ---
 
-### 🛠  Frameworks & Library
+### 🏝️ Design
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
