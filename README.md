@@ -12,7 +12,7 @@ Welcome to my GitHub Profile!<img src="https://upload.wikimedia.org/wikipedia/co
 
 - 📧 How to contact me:
 
-- <a href="https://t.me/KanYonA" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+- <a href="https://t.me/KanYonA" target="_blank"><img src="[https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram](https://img.etimg.com/thumb/width-1600,height-900,imgsize-10120,resizemode-75,msid-102791987/magazines/panache/now-update-any-element-of-your-telegram-story-as-messaging-app-rolls-out-new-update.jpg)"></a>
 
 ---
 
