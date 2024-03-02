@@ -6,7 +6,7 @@ Welcome to my GitHub Profile!<img src="https://upload.wikimedia.org/wikipedia/co
 ### :man_technologist: About Me:
 
 
-- <img src="https://yt3.googleusercontent.com/-ANuqASexFGskzjUkSTjFUeaBkwHzQEa_5ZA9s_peYJ5CiC1PR8jusZeKMU-tG4MtRYBA9PSpQ=s900-c-k-c0x00ffffff-no-rj" style="border-radius: 20px"; width="30px" height="30px"> Education: IT - City Academy!
+- <img style="border-radius: 20px;" src="https://yt3.googleusercontent.com/-ANuqASexFGskzjUkSTjFUeaBkwHzQEa_5ZA9s_peYJ5CiC1PR8jusZeKMU-tG4MtRYBA9PSpQ=s900-c-k-c0x00ffffff-no-rj" width="30px" height="30px"> Education: IT - City Academy!
 
 ---
 
