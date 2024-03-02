@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+# Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yeXlndGU1OWdjMmk4bWtsYXlwODFsczJmc3RrNW9vMnZ6MnBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eACGztkTkisd5n2uNU/giphy.gif" width="30px" height="30px">
 
 ---
 
