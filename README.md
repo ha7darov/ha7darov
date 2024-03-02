@@ -6,7 +6,8 @@ Welcome to my GitHub Profile! <img src="https://upload.wikimedia.org/wikipedia/c
 
 <h3> 🌐 Socials:<h3>
 
-<a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="40" height="40"></a>
+<a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="45" height="45"></a>
+<a href="https://www.youtube.com/@jh_developer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="55px" height="40px"></a>
 
 
 ---
