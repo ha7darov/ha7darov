@@ -20,6 +20,7 @@ Welcome to my <a href="https://t.me/setup_Windows11">GitHub<a/> Profile! <img sr
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css3" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*YVTFl1UEkt3_rkez-DIU9w.png" alt="tg bot" width="40" height="40"/>&nbsp
 </div>
 
 ---
