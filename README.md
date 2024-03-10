@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/mine.svg" alt="KHAYDAROV" />
+  <img src="/my mine.svg" alt="KHAYDAROV" />
 </h1>
 
 # Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yeXlndGU1OWdjMmk4bWtsYXlwODFsczJmc3RrNW9vMnZ6MnBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eACGztkTkisd5n2uNU/giphy.gif" width="40px" height="40px">
