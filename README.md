@@ -4,11 +4,9 @@
 
 # Hi, I'm <a href="https://t.me/setup_Windows11" target="_blank">Jasur</a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20yeXlndGU1OWdjMmk4bWtsYXlwODFsczJmc3RrNW9vMnZ6MnBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eACGztkTkisd5n2uNU/giphy.gif" width="40px" height="40px">
 
-Welcome to my <a href="https://t.me/setup_Windows11">GitHub<a/> Profile! <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="30px">
----
 
 
-<h3> 🌐 Socials:<h3>
+<h3> 🌐 Connect:<h3>
 
 <a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="45" height="45"></a>
 
