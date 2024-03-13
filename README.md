@@ -8,7 +8,7 @@
 
 <h3> 🌐 Connect:<h3>
 
-<a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="45" height="45"></a>
+<a href="https://t.me/KanYonA" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/11/Telegram-PNG-Image.png" width="45" height="45"></a>
 
 ```js
 body{
