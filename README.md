@@ -10,6 +10,12 @@
 
 <a href="https://t.me/KanYonA" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/800px-Telegram_logo.svg.png" width="45" height="45"></a>
 
+```js
+body{
+    margin: 0;
+    padding: 0;
+}
+```
 ---
 
 <h2>Buy Me Coffee</h2>
