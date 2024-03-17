@@ -6045,7 +6045,7 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha7darov)](https://github.com/anuraghazra/github-readme-stats) <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-38.gif" width="406px" height="144.5px">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha7darov)](https://github.com/anuraghazra/github-readme-stats) <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-38.gif" width="376px" height="194.5px">
 
 
 <!-- !export default function operate(numberOne, numberTwo, operation) {
