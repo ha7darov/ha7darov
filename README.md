@@ -5522,30 +5522,6 @@ body{
                     TAILWIND cdn
 <script src="https://cdn.tailwindcss.com"></script>
 
-                   TAILWIND NodeJS
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init --full
-
-//tailwind.config.js/content
-"./src/**/*.{html,js}"
-
-//Tailwind/Main.css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-// compile main.css
-npx tailwindcss -i ./src/main.css -o ./src/output.css
-
-//HTML
-<link rel="stylesheet" href="output.css">
-
-                     Bootstrap CDN
-CSS
-https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
-JS
-https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
-
 ```
 ---
 
