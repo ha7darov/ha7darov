@@ -5522,6 +5522,9 @@ body{
                     TAILWIND cdn
 <script src="https://cdn.tailwindcss.com"></script>
 
+                     Bootstrap cdn
+	https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+
 ```
 ---
 
